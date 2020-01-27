@@ -7,21 +7,20 @@ The aim of this **colabatory** is to provide an **Open-Source Educational Space*
 >[2020 Data Day Slides: Graph & ML](https://docs.google.com/presentation/d/1bhj3g-sVgBV8PpdHvgb9ZV00OUfb29zKHTzv6qFWvXs/edit?usp=sharing)
 
 ## Table of Content:
-* Resources
-* ToolKit
-* TigerLab
+* [Resources](#resources)
+* [Tool List](#tools-list)
+* [Tiger Labs](#lab-1---provision-a-graph-playground)
   * [Lab 1 - Provision a Graph Playground](https://medium.com/@jon.herke/deploy-a-graph-database-in-3-steps-no-code-need-d903bd062dae)
   * [Lab 2 - Getting Familiar with GraphStudio](https://medium.com/@jon.herke/exploring-graphstudio-a-ui-for-tigergraph-ed0751a3ff49)
   * [Lab 2.5 - Create a Secret and Generate a Token](https://colab.research.google.com/drive/1sYv3Jvc6KYsqC4D-Rxkvjh4iPnrp4rg7)
   * [Lab 3 - Create and Execute aTensorFlow Model using Graph Features](https://colab.research.google.com/drive/1yXg1UTJynjLKmdCvVNm_ldvurTR6szGN)
   * [Lab 4 - Create and Execute a Graph Convolution Neural-Net](https://colab.research.google.com/drive/11tcL4KXXwY__TmUUTjOf6InFQMC-VsG6)
-* Extra Credit - Algorithm Exploration
 
 ### Resources
-* [TigerLab](https://drive.google.com/drive/u/0/folders/1EuL9tTyk_gfk9J76GNhU-DdEaC5I16K2) google drive with all artifacts used in the TigerLab included.
-* [TigerDocs](https://docs.tigergraph.com/) comprehensive repository of all things TigerGraph. If you have a question this would be the recommended first place to go when searching for an answer.
-* [Community Chat](https://discord.gg/F2c9b9v) a place to talk and meet other graph developers.
-* [Reddit Community](https://www.reddit.com/r/tigergraph/) a place have discussions, post content you develop, or tools you build. 
+* [**TigerLab**](https://drive.google.com/drive/u/0/folders/1EuL9tTyk_gfk9J76GNhU-DdEaC5I16K2) google drive with all artifacts used in the TigerLab included.
+* [**TigerDocs**](https://docs.tigergraph.com/) comprehensive repository of all things TigerGraph. If you have a question this would be the recommended first place to go when searching for an answer.
+* [**Community Chat**](https://discord.gg/F2c9b9v) a place to talk and meet other graph developers.
+* [**Reddit Community**](https://www.reddit.com/r/tigergraph/) a place have discussions, post content you develop, or tools you build. 
 
 ### Tools List
 
